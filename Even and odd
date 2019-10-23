@@ -1,0 +1,7 @@
+def chkNum(no):
+    if(no%2==0):
+        print("No is even")
+    else:
+        print("No is odd")
+
+chkNum(16)        
